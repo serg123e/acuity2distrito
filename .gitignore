@@ -1,0 +1,4 @@
+﻿vendor/*
+cmd/vendor/*
+1/*
+config.php
